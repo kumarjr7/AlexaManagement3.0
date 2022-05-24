@@ -79,17 +79,17 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[ᴀʟᴇxᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://telegra.ph/file/a39d85b972b38e2d5fd91.jpg)』
+ ──『[🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨](https://telegra.ph/file/367e6a2a23939de4f4499.jpg)』
 
 *ʜᴇʟʟᴏ {} !*
-✪ ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 😔
+✪ ɪ ᴀᴍ 🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨 sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 💫
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [CHANNEL](t.me/AsadSupport) - [SUPPORT](t.me/Shayri_Music_Lovers)
+✪ [OWNER](t.me/Suryaakumar) - [SUPPORT](t.me/mafia_kings_queens)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
@@ -102,29 +102,29 @@ PMSTART_CHAT = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="💖 ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💖",
-                            url="t.me/ALEXA_MANAGEMENTBOT?startgroup=true"),
+                            text="ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+                            url="t.me/Zaynmalik_gc_bot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/HarshitSharma361"),
-                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/Part_Of_Rocks"),
+                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/Suryaakumar"),
+                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/mafiaking_fed"),
                      ],
                     [                  
                        InlineKeyboardButton(
-                             text="💌 ᴏᴡɴᴇʀ",
-                             url=f"https://t.me/Dr_Assad_Ali"),
+                             text="💌 Besite",
+                             url=f"https://t.me/bestie_of_suryaa_parzi"),
                        InlineKeyboardButton(
                              text="💌 ɴᴇᴛᴡᴏʀᴋ",
-                             url=f"https://t.me/Shayri_Music_Lovers"),
+                             url=f"https://t.me/mafia_kings_queens"),
                         ],
                        [
-                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/Give_Me_Heart"
+                           InlineKeyboardButton(text="ʟᴏᴠᴇ", url="t.me/Just_feelings_sk"
          ),
     ],
 ]
 
 HELP_STRINGS = """
-Hey there, I'm *Rocks Alexa*!
+Hey there, I'm *🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨*!
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
@@ -139,15 +139,15 @@ List of all the Modules:
 )
 
 HELP_MSG = "Click the button below to get help manu in your pm."
-DONATE_STRING = """Contact to My Pretty [OWNER](t.me/Dr_Asad_Ali)"""
-HELP_IMG= "https://telegra.ph/file/93aa52512ccd256888b28.jpg"
-GROUPSTART_IMG= "https://telegra.ph/file/35e730dea457c85cc367b.mp4"
+DONATE_STRING = """Contact to My Pretty [OWNER](t.me/Suryaakumar)"""
+HELP_IMG= "https://telegra.ph/file/40f7da0c6f0dd5915de99.jpg"
+GROUPSTART_IMG= "https://telegra.ph/file/690e60a04a67001592731.mp4"
 
-PM_IMG = ( "https://telegra.ph/file/8d2bf852a53bd13fb8037.jpg",
-           "https://telegra.ph/file/6f43301a3e43d20f7906a.jpg",
-           "https://telegra.ph/file/c71c9940f27143f1d6b7b.jpg",
-           "https://telegra.ph/file/93aa52512ccd256888b28.jpg",
-           "https://telegra.ph/file/0d7fd638c3c2ea21176a1.jpg", )
+PM_IMG = ( "https://telegra.ph/file/40f7da0c6f0dd5915de99.jpg",
+           "https://telegra.ph/file/367e6a2a23939de4f4499.jpg",
+           "https://telegra.ph/file/8b7628d71bc42d45c4dbf.jpg",
+           "https://telegra.ph/file/1ba30d3fabf8eeed99f96.jpg",
+           "https://telegra.ph/file/40f7da0c6f0dd5915de99.jpg", )
 
 
 IMPORTED = {}
@@ -264,15 +264,15 @@ def start(update: Update, context: CallbackContext):
     else:
         first_name = update.effective_user.first_name
         update.effective_message.reply_video(
-            GROUPSTART_IMG, caption= "*hey {},*\n*Official Rocks Alexa here*\n*Power lavel time* : {} ".format(
+            GROUPSTART_IMG, caption= "*hey {},*\n*Official 🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨 here*\n*Power lavel time* : {} ".format(
              first_name,uptime
             ),
             parse_mode=ParseMode.MARKDOWN,
         reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="💌 ᴋɪɴɢ ", url=f"t.me/Dr_Assad_Ali"),
-                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/AsadSupport"),
+                  InlineKeyboardButton(text="💌 ᴋɪɴɢ ", url=f"t.me/Suryaakumar"),
+                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/mafia_kings_queens"),
                   ]
                 ]
             ),
@@ -351,7 +351,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "Powered by [Dr Asad Ali](t.me/Dr_Assad_Ali) And [Harshit Sharma](t.me/HarshitSharma361)\nHere is the help for the *{}* module:\n".format(
+                "Powered by [Suryaa kumar](t.me/Suryaakumar) And [Bestie](t.me/bestie_of_suryaa_parzi)\nHere is the help for the *{}* module:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
