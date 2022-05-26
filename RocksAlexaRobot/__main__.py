@@ -111,7 +111,7 @@ buttons = [
                      ],
                     [                  
                        InlineKeyboardButton(
-                             text="💌 Besite",
+                             text="💌 Bestie",
                              url=f"https://t.me/bestie_of_suryaa_parzi"),
                        InlineKeyboardButton(
                              text="💌 ɴᴇᴛᴡᴏʀᴋ",
