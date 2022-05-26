@@ -102,7 +102,7 @@ PMSTART_CHAT = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+                            text="ᴀᴅᴅ CR7 ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
                             url="t.me/Zaynmalik_gc_bot?startgroup=true"),
                     ],
                    [
