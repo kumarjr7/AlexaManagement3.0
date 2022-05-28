@@ -94,10 +94,10 @@ PM_START_TEXT = """
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ Get Busy Living Or Get Busy Dying!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
-    "[I'm Dr Asad Ali Project](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
-    "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[Hahahahaha I'm Alexa!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[ Get Busy Living Or Get Busy Dying!!!](https://telegra.ph/file/58c6fb86fb6e0cab55c77.mp4)",
+    "[I'm Cristiano Ronaldo](https://telegra.ph/file/690e60a04a67001592731.mp4)",
+    "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/537ae0d40b78d5685b330.mp4)",
+    "[Siuuuuuuuuuuuu](https://telegra.ph/file/dea98e77e25bfcce48a7a.mp4)", )
 
 buttons = [
     [
