@@ -72,7 +72,7 @@ def song(client, message):
         message.reply_audio(audio_file, caption=rep, thumb=thumb_name, parse_mode='md', title=title, duration=dur)
         m.delete()
     except Exception as e:
-        m.edit('An error Occured! \nReport at @Shayri_Music_Lovers')
+        m.edit('An error Occured! \nReport at @mafia_kings_queens')
         print(e)
 
     try:
