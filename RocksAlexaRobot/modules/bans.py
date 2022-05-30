@@ -47,7 +47,7 @@ from RocksAlexaRobot.modules.helper_funcs.string_handling import extract_time
 from RocksAlexaRobot.modules.log_channel import gloggable, loggable
 
 UNBAN_IMG= "https://telegra.ph/file/00428b7db3767b9c61f6f.mp4"
-BAN_IMG= "https://telegra.ph/file/8feebcd2309655661e0c9.mp4"
+BAN_IMG= "https://telegra.ph/file/eb8cd4eafec53b5e6d56a.mp4"
 
 @run_async
 @connection_status
