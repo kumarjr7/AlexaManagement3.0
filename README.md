@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ Cristiano Ronaldo x Bot ❤️</b></h1>
+<h1 align="center"><b> Cristiano Ronaldo x Bot </b></h1>
 
 <h4 align="center">Ronaldo A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -20,7 +20,7 @@
 
 > ⭐️ Thanks to everyone for using Rocks Alexa, That is the greatest pleasure we have !
 
-## Avaiilable on Telegram as [@AsadSupport](https://t.me/ALEXA_MANAGEMENTBOT)
+## Avaiilable on Telegram as [@CristianoRonaldo](https://t.me/Zaynmalik_gc_bot)
 
 ## ✨ Easy To Deploy Direct In Repo✨
 
